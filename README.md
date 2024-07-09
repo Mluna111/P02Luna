@@ -35,3 +35,12 @@
 
 <h2>Output</h2>
 <p>The program will output the solution path if a solution is found, including the number of nodes expanded and the path length to the goal. If no solution is found, it will indicate that as well.</p>
+
+<h2>Sample Run</h2>
+
+<p align="center">
+<br/>
+<br/>
+<img src="https://imgur.com/U0q9zgU.png" height="80%" width="80%" />
+<br />
+</p>
