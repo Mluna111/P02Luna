@@ -40,7 +40,6 @@
 
 <p align="center">
 <br/>
-<br/>
 <img src="https://imgur.com/U0q9zgU.png" height="80%" width="80%" />
 <br />
 </p>
